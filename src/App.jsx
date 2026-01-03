@@ -146,9 +146,7 @@ const JeptoLanding = () => {
 
         <div className="container relative z-10 px-6 pt-20">
           <div className="max-w-4xl">
-            <div className="inline-block px-4 py-1 border border-amber-500/50 rounded-full bg-amber-500/10 backdrop-blur-md mb-6">
-              <span className="text-amber-400 font-semibold tracking-widest text-xs uppercase">Your Trusted Partner</span>
-            </div>
+            
             <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-white font-bold leading-[1.1] mb-8">
               Real Estate, <br/>
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 to-amber-600">Redefined.</span>
